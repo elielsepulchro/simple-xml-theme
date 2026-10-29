@@ -8,7 +8,7 @@ Um tema minimalista, limpo e totalmente funcional para o **blog**, estruturado e
 
 - **Design Minimalista:** Focado na legibilidade do texto e na experiência do usuário.
 - **Responsivo:** Adaptado perfeitamente para dispositivos móveis, tablets e desktops.
-- **Estrutura Limpa:** Construído utilizando a versão moderna de layouts do Blogger (v2/v3).
+- **Estrutura Limpa:** Construído utilizando a versão moderna de layouts do blog (v2/v3).
 - **Fácil Customização:** Estilos CSS fáceis de editar diretamente no código ou através do painel.
 
 ---
