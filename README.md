@@ -1,6 +1,6 @@
 # Simple Blog XML (`simple-blog-xml`)
 
-Um tema minimalista, limpo e totalmente funcional para o **Blogger (Blogspot)**, estruturado em um único arquivo XML. Ideal para criadores de conteúdo que buscam um design moderno, rápido e sem poluição visual.
+Um tema minimalista, limpo e totalmente funcional para o **blog**, estruturado em um único arquivo XML. Ideal para criadores de conteúdo que buscam um design moderno, rápido e sem poluição visual.
 
 ---
 
@@ -15,10 +15,10 @@ Um tema minimalista, limpo e totalmente funcional para o **Blogger (Blogspot)**,
 
 ## 📥 Como Instalar
 
-Siga os passos abaixo para aplicar este tema no seu blog do Blogger:
+Siga os passos abaixo para aplicar este tema no seu blog:
 
 1. Baixe ou copie o código contido no arquivo `theme.xml` deste repositório.
-2. Acesse o painel administrativo do seu [Blogger](https://www.blogger.com).
+2. Acesse o painel administrativo do seu blog.
 3. No menu lateral esquerdo, clique em **Tema**.
 4. No card do seu tema atual, clique na **seta para baixo** (ao lado do botão *Personalizar*).
 5. Selecione **Restaurar** e depois clique em **Fazer upload**.
